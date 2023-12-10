@@ -1,5 +1,6 @@
 ---
 permalink: /articles/
+title: Articles
 ---
 
 [Carbon Abatement Costs for Hydrogen Fuels in Hard-to-Abate Transport Sectors and Potential Climate Policy Mixes](https://climate.mit.edu/posts/carbon-abatement-costs-hydrogen-fuels-hard-abate-transport-sectors-and-potential-climate) - MIT Climate (November 29, 2022). [Twitter thread](https://twitter.com/EmilDimanchev/status/1598317921616412675?s=20&t=bfyALecbkDOHInU4ExRzZA)
