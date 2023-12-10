@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Emil Dimanchev's personal website
 twitter_username: EmilDimanchev
 github_username: username
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: "default" # contrast
 search: false
 
 # Build settings
