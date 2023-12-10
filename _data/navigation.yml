@@ -5,5 +5,7 @@ main:
     url: /articles/
   - title: "Media"
     url: /media/
+  - title: "PhD project"
+    url: /phd/
   - title: "About"
     url: /about/
