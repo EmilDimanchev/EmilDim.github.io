@@ -1,5 +1,6 @@
 ---
 permalink: /papers/
+title: "Papers"
 ---
 ## Peer-reviewed research
 
