@@ -1,3 +1,8 @@
+---
+permalink: /Papers/
+title: "Papers"
+---
+
 ## Peer-reviewed research
 
 **Dimanchev, E.**, S.-E. Fleten, D. MacKenzie, and M. Korpås. 2023. [Accelerating electric vehicle charging investments: A real options approach to policy design](https://www.sciencedirect.com/science/article/pii/S0301421523002884). *Energy Policy* 181. 
