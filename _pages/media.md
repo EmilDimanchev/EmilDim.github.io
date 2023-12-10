@@ -1,6 +1,4 @@
 ---
-<!--- subtitle: title: Media ---> 
-<!--- subtitle: Selection of appearances ---> 
 ---
 
 Canadian Business [Hydro-Québec’s Billion-Dollar Power Struggle](https://www.canadianbusiness.com/ideas/hydro-quebec-billion-dollar-power-struggle/) (October 11, 2022)
