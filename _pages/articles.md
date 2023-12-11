@@ -1,5 +1,6 @@
 ---
 permalink: /articles/
+classes: wide
 ---
 [A wake-up call theory of climate change](https://medium.com/@EmilDimanchev/a-wake-up-call-theory-of-climate-change-fc5d3077a22b) - Medium (October 9, 2020). [Twitter thread](https://twitter.com/EmilDimanchev/status/1315619195904720898?s=20)
 
