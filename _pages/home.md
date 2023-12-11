@@ -1,9 +1,8 @@
 ---
 permalink: /
 classes: wide
+title: Hello
 ---
-## Hello
-
 I investigate climate policy design, energy system planning, and energy market economics. I am especially interested in questions encountered in the practice of climate policy making, or informed by perspectives from political science, finance, or natural science. I leverage methods primarily from operations research, economics, and engineering. 
 
 ## Bio
