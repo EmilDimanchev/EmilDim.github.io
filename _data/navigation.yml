@@ -7,5 +7,7 @@ main:
     url: /media/
   - title: "PhD project"
     url: /phd/
+  - title: "Hello"
+    url: /
   # - title: "About"
     # url: /about/
