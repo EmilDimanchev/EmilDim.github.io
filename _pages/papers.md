@@ -8,21 +8,15 @@ title: "Papers"
 
 **Dimanchev, E.**, D. Qorbani, M. Korpas. 2022. [Electric vehicle adoption dynamics on the road to deep decarbonization](https://onlinelibrary.wiley.com/doi/10.1002/9783527831425.ch8). Book chapter in "The 4Ds of Energy Transition: Decarbonization, Decreasing use, Decentralization, and Digitalization". Wiley. (Access: get in touch; model [link](https://zenodo.org/record/6191882#.YtkZVS8RrT8))
 
-**Dimanchev, E.**, J. Hodge, J. Parsons. 2021. [The role of hydropower reservoirs in deep decarbonization policy](https://www.sciencedirect.com/science/article/pii/S0301421521002391). *Energy Policy* 155. ([Open access pre-print](https://ceepr.mit.edu/workingpaper/two-way-trade-in-green-electrons-deep-decarbonization-of-the-northeastern-u-s-and-the-role-of-canadian-hydropower/) including NYISO analysis; [public comment](https://www.dropbox.com/s/7c14v6t9zxdotk3/NYDPS.pdf?dl=0) on NY state proceeding 15-01168; [code and data](https://doi.org/10.5281/zenodo.3773861))
+**Dimanchev, E.**, J. Hodge, J. Parsons. 2021. [The role of hydropower reservoirs in deep decarbonization policy](https://www.sciencedirect.com/science/article/pii/S0301421521002391). *Energy Policy* 155. ([Pre-print](https://ceepr.mit.edu/workingpaper/two-way-trade-in-green-electrons-deep-decarbonization-of-the-northeastern-u-s-and-the-role-of-canadian-hydropower/) including NYISO analysis; [public comment](https://www.dropbox.com/s/7c14v6t9zxdotk3/NYDPS.pdf?dl=0) on NY state proceeding 15-01168; [presentation](https://youtu.be/RI13YmaVvmk); [code and data](https://doi.org/10.5281/zenodo.3773861))
   
 **Dimanchev, E.**, et al. 2019. [Health Co-Benefits of Sub-National Renewable Energy Policy in the U.S.](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9) *Environmental Research Letters* 14 085012. (Open access; [testimony](http://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/chamber/133rd_ga/ready_for_publication/committee_docs/cmte_s_energy_pu_1/testimony/cmte_s_energy_pu_1_2019-06-19-0800_742/testimonyemildimanchevmit.pdf) for the Ohio Senate; [Pre-print](https://globalchange.mit.edu/publication/17278) including Ohio case study)
 
-## Working papers and reports 
+## Working papers
 
 **Dimanchev, E.**, et al. 2023. [Consequences of the Missing Risk Market Problem for Power System Emissions](https://ceepr.mit.edu/workingpaper/consequences-of-the-missing-risk-market-problem-for-power-system-emissions/). MIT CEEPR Working Paper 2023-19.
 
-**Dimanchev, E.**, et al. 2023. [Accelerating Electric Vehicle Charging Investments: A Real Options Approach to Policy Design](https://ceepr.mit.edu/workingpaper/accelerating-electric-vehicle-charging-investments-a-real-options-approach-to-policy-design/). MIT CEEPR Working Paper 2023-03.
-
-Martin, J., **E. Dimanchev**, and A. Neumann. 2022. [Carbon Abatement Costs for Hydrogen Fuels in Hard-to-Abate Transport Sectors and Potential Climate Policy Mixes](https://ceepr.mit.edu/workingpaper/carbon-abatement-costs-for-hydrogen-fuels-in-hard-to-abate-transport-sectors-and-potential-climate-policy-mixes/). MIT CEEPR Working Paper 2022-017.
-
-**Dimanchev, E.**, and C. R. Knittel. 2020. [Trade-offs in Climate Policy: Combining Low- Carbon Standards with Modest Carbon Pricing](https://ceepr.mit.edu/workingpaper/trade-offs-in-climate-policy-combining-low-carbon-standards-with-modest-carbon-pricing/). MIT CEEPR Working Paper 2020-020. (Related: short [Research Brief](https://ceepr.mit.edu/wp-content/uploads/2021/09/2020-020-Brief.pdf)).
-
-**Dimanchev, E.**, J. Hodge, J. Parsons. 2020. [Two-Way Trade in Green Electrons: Deep Decarbonization of the Northeastern U.S. and the Role of Canadian Hydropower](https://ceepr.mit.edu/workingpaper/two-way-trade-in-green-electrons-deep-decarbonization-of-the-northeastern-u-s-and-the-role-of-canadian-hydropower/). MIT CEEPR Working Paper 2020-003. (Related: Presentation [recording](https://youtu.be/RI13YmaVvmk); short [Research Brief](https://ceepr.mit.edu/wp-content/uploads/2021/09/2020-003-Brief.pdf)).
+## Reports
 
 Green et al. (**contributing author**) 2019. [Insights Into Future Mobility.](http://energy.mit.edu/research/mobilityofthefuture/) A report from the Mobility of the Future study. MIT Energy Initiative.
 
