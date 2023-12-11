@@ -61,7 +61,7 @@ author:
   # bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=3qMUlzkAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
