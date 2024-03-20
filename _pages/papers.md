@@ -3,7 +3,8 @@ permalink: /papers/
 title: "Papers"
 classes: wide
 ---
-**Dimanchev, E.**, S.-E. Fleten, S. Gabriel, and M. Korpås. 2023. [Effects of Electricity Sector Climate Policies in a Second-best World of Missing Risk Markets](https://doi.org/10.32866/001c.94993). *Findings*. (Open access)
+
+**Dimanchev, E.**, S.-E. Fleten, S. Gabriel, and M. Korpås. 2023. [Effects of Electricity Sector Climate Policies in a Second-best World of Missing Risk Markets](https://doi.org/10.32866/001c.94993) . *Findings*. (Open access)
 
 **Dimanchev, E.**, S.-E. Fleten, D. MacKenzie, and M. Korpås. 2023. [Accelerating electric vehicle charging investments: A real options approach to policy design](https://www.sciencedirect.com/science/article/pii/S0301421523002884). *Energy Policy* 181. (Open access)
 
