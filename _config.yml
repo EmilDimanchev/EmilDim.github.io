@@ -69,9 +69,9 @@ author:
     - label: "Blue Sky"
       icon: "fas fa-fw fa-link"
       url: "https://bsky.app/profile/emildimanchev.bsky.social"
-    - label: "Contact"
-      icon: "fas fa-fw fa-link:
-      url: "https://www.ntnu.no/ansatte/emil.dimanchev"
+    # - label: "Contact"
+      #icon: "fas fa-fw fa-link:
+      # url: "https://www.ntnu.no/ansatte/emil.dimanchev"
     # - label: "GitHub"
       # icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
