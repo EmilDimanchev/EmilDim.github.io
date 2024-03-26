@@ -7,4 +7,4 @@ My main [project](https://ceepr.mit.edu/workingpaper/consequences-of-the-missing
 
 I and co-authors also investigated how policy can accelerate [investment in EV charging stations](https://www.sciencedirect.com/science/article/pii/S0301421523002884) by accounting for the risks faced by private-sector investors using real options modeling. 
 
-To better understand the importance of future power system investments, in another publication I also [reveiewed](https://onlinelibrary.wiley.com/doi/10.1002/9783527831425.ch8) the range of electrification pathways consistent with 2C and 1.5C climate targets. This work found that pathways consistently show substantial electrification, but 2C pathways disagree on the magnitude. 
+To better understand the importance of future power system investments, in another publication I also [reviewed](https://onlinelibrary.wiley.com/doi/10.1002/9783527831425.ch8) the range of electrification pathways consistent with 2C and 1.5C climate targets. This work found that pathways consistently show substantial electrification, but 2C pathways disagree on the magnitude. 
