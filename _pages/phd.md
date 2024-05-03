@@ -1,7 +1,7 @@
 ---
 permalink: /phd/
 ---
-My PhD focuses on the impact of investment risk on power system investments, its consequences for societal climate goals, and its implications for public policy. I explore these topics by developing stochastic optimization and equilibrium operations research models.
+My PhD focuses on the role of investment risk on power system investments, its consequences for societal climate goals, and its implications for public policy. I explore these topics by developing stochastic optimization and equilibrium operations research models.
 
 My main [project](https://ceepr.mit.edu/workingpaper/consequences-of-the-missing-risk-market-problem-for-power-system-emissions/) explores how power system decarbonization is impacted by investor risk aversion and the incompleteness of risk markets. In another work, I explore how [climate policy effects](https://doi.org/10.32866/001c.94993) change when risk markets are incomplete.
 
