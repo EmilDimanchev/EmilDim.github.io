@@ -1,5 +1,6 @@
 ---
 permalink: /phd/
+classes: wide
 ---
 My PhD focuses on the role of investment risk in power systems, its consequences for societal climate goals, and its implications for public policy. I explore these topics by developing stochastic optimization and equilibrium operations research models.
 
