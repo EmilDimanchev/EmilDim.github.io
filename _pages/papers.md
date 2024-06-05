@@ -4,6 +4,8 @@ title: "Papers"
 classes: wide
 ---
 
+**Dimanchev, E.**, S. Gabriel, L. Reichenberg, and M. Korpås. 2024. [Consequences of the Missing Risk Market Problem for Power System Emissions](https://doi.org/10.1016/j.eneco.2024.107639). *Energy Economics* 136. (Open access).
+
 **Dimanchev, E.**, S.-E. Fleten, S. Gabriel, and M. Korpås. 2024. [Effects of Electricity Sector Climate Policies in a Second-best World of Missing Risk Markets](https://doi.org/10.32866/001c.94993) . *Findings*. (Open access)
 
 **Dimanchev, E.**, S.-E. Fleten, D. MacKenzie, and M. Korpås. 2023. [Accelerating electric vehicle charging investments: A real options approach to policy design](https://www.sciencedirect.com/science/article/pii/S0301421523002884). *Energy Policy* 181. (Open access)
@@ -15,10 +17,6 @@ classes: wide
 **Dimanchev, E.**, J. Hodge, J. Parsons. 2021. [The role of hydropower reservoirs in deep decarbonization policy](https://www.sciencedirect.com/science/article/pii/S0301421521002391). *Energy Policy* 155. (Access: get in touch for a copy; [working paper](https://ceepr.mit.edu/workingpaper/two-way-trade-in-green-electrons-deep-decarbonization-of-the-northeastern-u-s-and-the-role-of-canadian-hydropower/); [public proceedings comment](https://www.dropbox.com/s/7c14v6t9zxdotk3/NYDPS.pdf?dl=0); [presentation](https://youtu.be/RI13YmaVvmk); [code and data](https://doi.org/10.5281/zenodo.3773861))
   
 **Dimanchev, E.**, S. Paltsev, M. Yuan, D. Rothenberg, C.W. Tessum, J.D. Marshall, N.E. Selin. 2019. [Health Co-Benefits of Sub-National Renewable Energy Policy in the U.S.](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9) *Environmental Research Letters* 14. (Open access; [testimony for the Ohio Senate](http://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/chamber/133rd_ga/ready_for_publication/committee_docs/cmte_s_energy_pu_1/testimony/cmte_s_energy_pu_1_2019-06-19-0800_742/testimonyemildimanchevmit.pdf))
-
-## Working papers
-
-**Dimanchev, E.**, et al. 2023. [Consequences of the Missing Risk Market Problem for Power System Emissions](https://ceepr.mit.edu/workingpaper/consequences-of-the-missing-risk-market-problem-for-power-system-emissions/). MIT CEEPR Working Paper 2023-19.
 
 ## Reports
 
