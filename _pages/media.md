@@ -3,6 +3,10 @@ permalink: /media/
 classes: wide
 ---
 
+RTO Insider [National Grid Backs out of Twin States Clean Energy Link Project](https://www.rtoinsider.com/73059-twin-states-national-grid-clean-energy-link/) (March 5, 2024)
+
+RTO Insider [Québec, New England See Shifting Role for Canadian Hydropower](https://www.rtoinsider.com/72093-quebec-new-england-shifting-role-hydropower/) (February 25, 2024)
+
 Canadian Business [Hydro-Québec’s Billion-Dollar Power Struggle](https://www.canadianbusiness.com/ideas/hydro-quebec-billion-dollar-power-struggle/) (October 11, 2022)
 
 Axios [One barrier to electric cars: Slow fleet turnover](https://www.axios.com/2022/07/25/electric-cars-fleet-turnover) (July 25, 2022)
