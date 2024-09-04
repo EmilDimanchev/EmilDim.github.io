@@ -20,7 +20,7 @@ classes: wide
 
 ## Working papers
 
-**Dimanchev, E.**, S.A. Gabriel, S-E. Fleten, F. Pecci, M. Korpås. 2024. [Choosing renewable energy subsidies and carbon prices when risk markets are missing: a bi-level energy system model](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/). MIT CEEPR Working Paper Series. WP 2024-14.
+**Dimanchev, E.**, S.A. Gabriel, S-E. Fleten, F. Pecci, M. Korpås. 2024. [Choosing Climate Policies in a Second-best World with Incomplete Markets: Insights from a Bilevel Power System Model](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/). MIT CEEPR Working Paper Series. WP 2024-14.
 
 ## Reports
 
