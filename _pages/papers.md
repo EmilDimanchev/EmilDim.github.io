@@ -1,6 +1,6 @@
 ---
 permalink: /papers/
-title:
+title: Papers
 classes: wide
 ---
 ## Selected Papers
