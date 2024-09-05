@@ -3,7 +3,6 @@ permalink: /papers/
 title: Papers
 classes: wide
 ---
-## Selected
 
 **Dimanchev, E.**, S. Gabriel, L. Reichenberg, and M. Korpås. 2024. [Consequences of the Missing Risk Market Problem for Power System Emissions](https://doi.org/10.1016/j.eneco.2024.107639). *Energy Economics* 136. (Open access).
 
