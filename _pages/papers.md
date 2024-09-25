@@ -4,7 +4,7 @@ title: Papers
 classes: wide
 ---
 
-**Dimanchev, E.**, S. Gabriel, L. Reichenberg, and M. Korpås. 2024. [Consequences of the Missing Risk Market Problem for Power System Emissions](https://doi.org/10.1016/j.eneco.2024.107639). *Energy Economics* 136. (Open access).
+**Dimanchev, E.**, S. Gabriel, L. Reichenberg, and M. Korpås. 2024. [Consequences of the Missing Risk Market Problem for Power System Emissions](https://doi.org/10.1016/j.eneco.2024.107639). *Energy Economics* 136. (Open access). [Replication files](https://zenodo.org/records/10709502).
 
 **Dimanchev, E.**, S.-E. Fleten, S. Gabriel, and M. Korpås. 2024. [Effects of Electricity Sector Climate Policies in a Second-best World of Missing Risk Markets](https://doi.org/10.32866/001c.94993) . *Findings*. (Open access)
 
