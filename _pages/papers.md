@@ -20,7 +20,7 @@ classes: wide
 
 ## Other papers
 
-Calder, R., **E. Dimanchev**, S. Cohen, R. McManamay. 2024. [Decision support for U.S. – Canada energy integration is impaired by fragmentary environmental and electricity system modeling capacity](https://iopscience.iop.org/article/10.1088/2634-4505/ad763e). *Environmental Research: Infrastructure and Sustainability*.
+Calder, R., **E. Dimanchev**, S. Cohen, R. McManamay. 2024. [Decision support for U.S. – Canada energy integration is impaired by fragmentary environmental and electricity system modeling capacity](https://iopscience.iop.org/article/10.1088/2634-4505/ad763e). *Environmental Research: Infrastructure and Sustainability* 4.
 
 Martin, J., **E. Dimanchev**, A, Neumann. 2023. [Carbon abatement costs for renewable fuels in hard-to-abate transport sectors](https://doi.org/10.1016/j.adapen.2023.100156). *Advances in Applied Energy* 12.
 
