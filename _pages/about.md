@@ -6,7 +6,7 @@ I investigate climate policy design, energy system planning, and energy market e
 
 ## Bio
 
-I am currently a PhD Candidate in electric power engineering at the Norwegian University of Science and Technology ([NTNU](https://www.ntnu.edu/employees/emil.dimanchev)), a Research Affiliate at the MIT [Center for Energy and Environmental Policy Research](https://ceepr.mit.edu/people/dimanchev-emil/), and a Superforecaster at [Good Judgment](https://goodjudgment.com). 
+I am currently a Researcher at the Industrial Economics and Technology Management Deparment of the Norwegian University of Science and Technology ([NTNU](https://www.ntnu.edu/iot/bedok#/view/about)), a Research Affiliate at the MIT [Center for Energy and Environmental Policy Research](https://ceepr.mit.edu/people/dimanchev-emil/), and a Superforecaster at [Good Judgment](https://goodjudgment.com). 
 
 In previous roles, I was a Research Associate at MIT CEEPR, and prior to that I worked as a Senior Carbon Market Analyst at Thomson Reuters Point Carbon.
 
