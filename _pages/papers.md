@@ -26,6 +26,8 @@ Martin, J., **E. Dimanchev**, A, Neumann. 2023. [Carbon abatement costs for rene
 
 ## Working papers
 
+Nygaard, L., **E. Dimanchev**, M. Korpås. 2024. [Power System Planning in the North Sea Area Under Demand Uncertainty and Risk Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991981). Preprint.
+
 **Dimanchev, E.**, S.A. Gabriel, S-E. Fleten, F. Pecci, M. Korpås. 2024. [Choosing Climate Policies in a Second-best World with Incomplete Markets: Insights from a Bilevel Power System Model](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/). MIT CEEPR Working Paper Series. WP 2024-14.
 
 ## Reports
