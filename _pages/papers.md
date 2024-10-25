@@ -24,7 +24,7 @@ Calder, R., **E. Dimanchev**, S. Cohen, R. McManamay. 2024. [Decision support fo
 
 Martin, J., **E. Dimanchev**, A, Neumann. 2023. [Carbon abatement costs for renewable fuels in hard-to-abate transport sectors](https://doi.org/10.1016/j.adapen.2023.100156). *Advances in Applied Energy* 12.
 
-## Working papers
+## Preprints
 
 Nygaard, L., **E. Dimanchev**, M. Korpås. 2024. [Power System Planning in the North Sea Area Under Demand Uncertainty and Risk Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991981).
 
