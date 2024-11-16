@@ -14,4 +14,4 @@ I have testified before legislators and advised government officials on climate 
 
 I hold a M.Sc. from MIT's Technology and Policy Program and a B.A. in mathematical economics from Colorado College.
 
-Aside from my work, I enjoy books, climbing, and cross-country skiing.
+Aside from my work, I enjoy books of various genres and sci-fi in particcular, climbing, and cross-country skiing.
