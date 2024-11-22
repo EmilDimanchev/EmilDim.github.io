@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-I investigate climate policy design, energy system planning, and energy market economics. I am especially interested in questions encountered in the practice of climate policy making, or informed by perspectives from political science, finance, or natural science. I leverage methods primarily from operations research, economics, and engineering. 
+I study macro-energy systems and the effects climate and energy policies using methods primarily from operations research. I am especially interested in questions encountered in the practice of climate policy making and in collaborating across disciplines. My recent work draws on energy systems engineering, environmental economics, finance, game theory, and political science.
 
 ## Bio
 
