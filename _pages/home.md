@@ -3,7 +3,7 @@ permalink: /
 classes: wide
 title: Hello
 ---
-I research macro-energy systems and the effects of climate and energy policies. My work leverages methods primarily from operations research. I am especially interested in addressing practical challenges in climate policy making by collaborating across disciplines. 
+I research macro-energy systems and the effects of climate and energy policies, using methods primarily from operations research. I am especially interested in addressing practical challenges in climate policy making by collaborating across disciplines. 
 
 ## Bio
 
