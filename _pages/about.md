@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-I study macro-energy systems and the effects climate and energy policies using methods primarily from operations research. I am especially interested in questions encountered in the practice of climate policy making and in collaborating across disciplines. My recent work draws on energy systems engineering, environmental economics, finance, game theory, and political science.
+I study macro-energy systems and the effects of climate and energy policies using methods primarily from operations research. I am especially interested in questions encountered in the practice of climate policy making and in collaborating across disciplines. My recent work draws on energy systems engineering, environmental economics, finance, game theory, and political science.
 
 ## Bio
 
