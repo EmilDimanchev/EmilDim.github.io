@@ -24,7 +24,7 @@ Martin, J., **E. Dimanchev**, A, Neumann. 2023. [Carbon abatement costs for rene
   
 **Dimanchev, E.**, S. Paltsev, M. Yuan, D. Rothenberg, C.W. Tessum, J.D. Marshall, N.E. Selin. 2019. [Health Co-Benefits of Sub-National Renewable Energy Policy in the U.S.](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9) *Environmental Research Letters* 14. (Open access; [testimony for the Ohio Senate](http://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/chamber/133rd_ga/ready_for_publication/committee_docs/cmte_s_energy_pu_1/testimony/cmte_s_energy_pu_1_2019-06-19-0800_742/testimonyemildimanchevmit.pdf))
 
-## Preprints
+## Working papers
 
 Nygaard, L., **E. Dimanchev**, M. Korpås. 2024. [Power System Planning in the North Sea Area Under Demand Uncertainty and Risk Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991981).
 
