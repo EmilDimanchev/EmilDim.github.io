@@ -66,6 +66,8 @@ Thomson Reuters Point Carbon (**lead author**) 2012 - [Phase 3 allocation: racin
 
 ## Theses
 
+**Dimanchev, E**. 2024 - [Decarbonization of energy systems under risk](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3165055) - PhD thesis, Norwegian University of Science and Technology (NTNU)
+
 **Dimanchev, E**. 2018 - [Air Quality Co-benefits of Renewable Energy Policy in the U.S.](https://globalchange.mit.edu/publication/17130) - Master's thesis, Massachusetts Institute of Technology, IDSS (Sept, 2018) - Granted Best Thesis in Technology and Policy award (2019)
 
 **Dimanchev, E**. 2011 - [Biodiversity Conservation Through REDD+](https://emildimantchev.files.wordpress.com/2016/06/biodiversity-conservation-through-redd.pdf) - Senior Thesis, Colorado College - Granted Most Outstanding Thesis in Economics award
