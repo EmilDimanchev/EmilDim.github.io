@@ -7,7 +7,7 @@ I research energy systems and the effects of climate and energy policies, using 
 
 ## Bio
 
-I am a Postdoctoral Research Associate at the [Princeton ZERO Lab](https://zero.lab.princeton.edu). I am also a Research Affiliate at the MIT [Center for Energy and Environmental Policy Research](https://ceepr.mit.edu/people/dimanchev-emil/) and a consultant for [Good Judgment](https://goodjudgment.com). 
+I am a Postdoctoral Research Associate at the [Princeton ZERO Lab](https://zero.lab.princeton.edu), a Research Affiliate at the MIT [Center for Energy and Environmental Policy Research](https://ceepr.mit.edu/people/dimanchev-emil/), and a consultant for [Good Judgment](https://goodjudgment.com). 
 
 In previous roles, I was a Research Associate at MIT CEEPR, and prior to that I worked as a Senior Carbon Market Analyst at Thomson Reuters Point Carbon.
 
