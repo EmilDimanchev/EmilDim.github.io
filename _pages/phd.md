@@ -2,7 +2,7 @@
 permalink: /phd/
 classes: wide
 ---
-My PhD investigated risk allocation problems in electricity markets, their consequences for societal climate goals, and their implications for public policy. I set out to address the following questions:
+My PhD investigated risk allocation problems in electricity markets, their consequences for societal climate goals, and their implications for public policy. My thesis presented four papers addressing the following questions:
 
 * How does [power system decarbonization](https://doi.org/10.1016/j.eneco.2024.107639) depend on investor risk aversion and the incompleteness of risk markets?
 * How do [climate policy effects](https://doi.org/10.32866/001c.94993) change when risk markets are incomplete?
