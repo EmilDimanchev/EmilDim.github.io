@@ -3,7 +3,7 @@ permalink: /
 classes: wide
 title: Hello
 ---
-I research energy systems and the effects of climate and energy policies, using methods primarily from operations research. I am especially interested in addressing practical challenges in climate policy making by collaborating across disciplines. 
+I research energy systems and the effects of climate and energy policies, using methods primarily from operations research. I am especially interested in addressing practical challenges in climate policy making and energy system planning by collaborating across disciplines. 
 
 ## Bio
 
