@@ -6,7 +6,7 @@ classes: wide
 
 ## Peer-reviewed papers
 
-Nygaard, L., **E. Dimanchev**, M. Korpås. 2025. [Power System Planning in the North Sea Area Under Demand Uncertainty and Risk Aversion](https://doi.org/10.1016/j.esr.2025.101664). *Energy Strategy Reviews 59.*
+Nygaard, L., **E. Dimanchev**, M. Korpås. 2025. [Power System Planning in the North Sea Area Under Demand Uncertainty and Risk Aversion](https://www.sciencedirect.com/science/article/pii/S2211467X25000276). *Energy Strategy Reviews 59.*
 
 **Dimanchev, E.**, S. Gabriel, L. Reichenberg, and M. Korpås. 2024. [Consequences of the Missing Risk Market Problem for Power System Emissions](https://doi.org/10.1016/j.eneco.2024.107639). *Energy Economics* 136. (Open access). [Replication files](https://zenodo.org/records/10709502).
 
