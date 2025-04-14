@@ -13,7 +13,7 @@ In previous roles, I was a Research Associate at MIT CEEPR, and prior to that I 
 
 I have advised and testified before legislators and government officials on energy policy in the US and the European Union. I advised on renewable energy policy and transmission expansion in the US and on the reform of the EU Emissions Trading System in the EU Parliament and member state governments, "contributing to a cool-headed debate" in the words of one policy maker. My research has also been quoted in the media including Bloomberg, the Wall Street Journal, Politico, BBC, and others.
 
-I have a PhD in electric power engineering from the Norwegian University of Science and Technology (NTNU), a MS in technology and policy from MIT, and a BA in mathematical economics from Colorado College.
+I have a PhD in electric power engineering from the Norwegian University of Science and Technology (NTNU), an MS in technology and policy from MIT, and a BA in mathematical economics from Colorado College.
 
 Aside from my work, I enjoy books of various genres (especially sci-fi), climbing, and cross-country skiing. 
 
