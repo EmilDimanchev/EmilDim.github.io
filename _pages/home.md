@@ -7,7 +7,7 @@ I research energy systems and the effects of climate and energy policies, using 
 
 ## Bio
 
-I am a postdoctoral research associate at the [Princeton ZERO Lab](https://zero.lab.princeton.edu), a research affiliate at the MIT [Center for Energy and Environmental Policy Research](https://ceepr.mit.edu/people/dimanchev-emil/), and a consultant for [Good Judgment](https://goodjudgment.com). 
+I am a postdoctoral research associate at the [Princeton ZERO Lab](https://zero.lab.princeton.edu/mission-people/emil-dimanchev/), a research affiliate at the MIT [Center for Energy and Environmental Policy Research](https://ceepr.mit.edu/people/dimanchev-emil/), and a consultant for [Good Judgment](https://goodjudgment.com). 
 
 In previous roles, I was a research associate at MIT CEEPR, and prior to that I worked as a climate policy analyst at Thomson Reuters Point Carbon. I have advised and testified before legislators and government officials on energy policy in the US and the EU, including on renewable energy policy and transmission expansion in the US and on the reform of the EU Emissions Trading System in the EU Parliament and member state governments, "contributing to a cool-headed debate" in the words of one policy maker. My research has also been quoted in the media including Bloomberg, the Wall Street Journal, Politico, BBC, and others.
 
