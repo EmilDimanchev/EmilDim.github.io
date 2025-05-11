@@ -6,31 +6,31 @@ classes: wide
 
 ## Peer-reviewed papers
 
-Nygaard, L., **E. Dimanchev**, M. Korpås. 2025. [Power System Planning in the North Sea Area Under Demand Uncertainty and Risk Aversion](https://www.sciencedirect.com/science/article/pii/S2211467X25000276). *Energy Strategy Reviews 59.* (Open access).
+Nygaard, L., **E. Dimanchev**, M. Korpås. 2025. [Power System Planning in the North Sea Area Under Demand Uncertainty and Risk Aversion](https://www.sciencedirect.com/science/article/pii/S2211467X25000276). *Energy Strategy Reviews 59.* ~ Open access
 
-**Dimanchev, E.**, S. Gabriel, L. Reichenberg, and M. Korpås. 2024. [Consequences of the Missing Risk Market Problem for Power System Emissions](https://doi.org/10.1016/j.eneco.2024.107639). *Energy Economics* 136. (Open access). [Replication files](https://zenodo.org/records/10709502).
+**Dimanchev, E.**, S. Gabriel, L. Reichenberg, and M. Korpås. 2024. [Consequences of the Missing Risk Market Problem for Power System Emissions](https://doi.org/10.1016/j.eneco.2024.107639). *Energy Economics* 136. ~ Open access; [Replication files](https://zenodo.org/records/10709502)
 
-**Dimanchev, E.**, S.-E. Fleten, S. Gabriel, and M. Korpås. 2024. [Effects of Electricity Sector Climate Policies in a Second-best World of Missing Risk Markets](https://doi.org/10.32866/001c.94993). *Findings*. (Open access).
+**Dimanchev, E.**, S.-E. Fleten, S. Gabriel, and M. Korpås. 2024. [Effects of Electricity Sector Climate Policies in a Second-best World of Missing Risk Markets](https://doi.org/10.32866/001c.94993). *Findings*. ~ Open access
 
-Calder, R., **E. Dimanchev**, S. Cohen, R. McManamay. 2024. [Decision support for U.S. – Canada energy integration is impaired by fragmentary environmental and electricity system modeling capacity](https://iopscience.iop.org/article/10.1088/2634-4505/ad763e). *Environmental Research: Infrastructure and Sustainability* 4. (Open access).
+Calder, R., **E. Dimanchev**, S. Cohen, R. McManamay. 2024. [Decision support for U.S. – Canada energy integration is impaired by fragmentary environmental and electricity system modeling capacity](https://iopscience.iop.org/article/10.1088/2634-4505/ad763e). *Environmental Research: Infrastructure and Sustainability* 4. ~ Open access
 
-**Dimanchev, E.**, S.-E. Fleten, D. MacKenzie, and M. Korpås. 2023. [Accelerating electric vehicle charging investments: A real options approach to policy design](https://www.sciencedirect.com/science/article/pii/S0301421523002884). *Energy Policy* 181. (Open access).
+**Dimanchev, E.**, S.-E. Fleten, D. MacKenzie, and M. Korpås. 2023. [Accelerating electric vehicle charging investments: A real options approach to policy design](https://www.sciencedirect.com/science/article/pii/S0301421523002884). *Energy Policy* 181. ~ Open access
 
-**Dimanchev, E.** and C.R. Knittel. 2023. [Designing climate policy mixes: Analytical and energy system modeling approaches](https://www.sciencedirect.com/science/article/pii/S0140988323001950). *Energy Economics* 122. (Open access).
+**Dimanchev, E.** and C.R. Knittel. 2023. [Designing climate policy mixes: Analytical and energy system modeling approaches](https://www.sciencedirect.com/science/article/pii/S0140988323001950). *Energy Economics* 122. ~ Open access
 
-Martin, J., **E. Dimanchev**, A, Neumann. 2023. [Carbon abatement costs for renewable fuels in hard-to-abate transport sectors](https://doi.org/10.1016/j.adapen.2023.100156). *Advances in Applied Energy* 12.
+Martin, J., **E. Dimanchev**, A, Neumann. 2023. [Carbon abatement costs for renewable fuels in hard-to-abate transport sectors](https://doi.org/10.1016/j.adapen.2023.100156). *Advances in Applied Energy* 12. ~ Open access
 
-**Dimanchev, E.**, J. Hodge, J. Parsons. 2021. [The role of hydropower reservoirs in deep decarbonization policy](https://www.sciencedirect.com/science/article/pii/S0301421521002391). *Energy Policy* 155. (Access: get in touch for a copy; [working paper](https://ceepr.mit.edu/workingpaper/two-way-trade-in-green-electrons-deep-decarbonization-of-the-northeastern-u-s-and-the-role-of-canadian-hydropower/); [public proceedings comment](https://www.dropbox.com/s/7c14v6t9zxdotk3/NYDPS.pdf?dl=0); [presentation](https://youtu.be/RI13YmaVvmk); [code and data](https://doi.org/10.5281/zenodo.3773861))
+**Dimanchev, E.**, J. Hodge, J. Parsons. 2021. [The role of hydropower reservoirs in deep decarbonization policy](https://www.sciencedirect.com/science/article/pii/S0301421521002391). *Energy Policy* 155. ~ To access: get in touch for a copy of journal article; [open access working paper](https://ceepr.mit.edu/workingpaper/two-way-trade-in-green-electrons-deep-decarbonization-of-the-northeastern-u-s-and-the-role-of-canadian-hydropower/); [public proceedings comment](https://www.dropbox.com/s/7c14v6t9zxdotk3/NYDPS.pdf?dl=0); [presentation](https://youtu.be/RI13YmaVvmk); [code and data](https://doi.org/10.5281/zenodo.3773861)
   
-**Dimanchev, E.**, S. Paltsev, M. Yuan, D. Rothenberg, C.W. Tessum, J.D. Marshall, N.E. Selin. 2019. [Health Co-Benefits of Sub-National Renewable Energy Policy in the U.S.](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9) *Environmental Research Letters* 14. (Open access; [testimony for the Ohio Senate](http://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/chamber/133rd_ga/ready_for_publication/committee_docs/cmte_s_energy_pu_1/testimony/cmte_s_energy_pu_1_2019-06-19-0800_742/testimonyemildimanchevmit.pdf))
+**Dimanchev, E.**, S. Paltsev, M. Yuan, D. Rothenberg, C.W. Tessum, J.D. Marshall, N.E. Selin. 2019. [Health Co-Benefits of Sub-National Renewable Energy Policy in the U.S.](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9) *Environmental Research Letters* 14. ~ Open access; [testimony for the Ohio Senate](http://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/chamber/133rd_ga/ready_for_publication/committee_docs/cmte_s_energy_pu_1/testimony/cmte_s_energy_pu_1_2019-06-19-0800_742/testimonyemildimanchevmit.pdf)
 
 ## Working papers
 
-**Dimanchev, E.**, S.A. Gabriel, S-E. Fleten, F. Pecci, M. Korpås. 2024. [Choosing Climate Policies in a Second-best World with Incomplete Markets: Insights from a Bilevel Power System Model](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/). MIT CEEPR Working Paper Series. WP 2024-14. (Open access).
+**Dimanchev, E.**, S.A. Gabriel, S-E. Fleten, F. Pecci, M. Korpås. 2024. [Choosing Climate Policies in a Second-best World with Incomplete Markets: Insights from a Bilevel Power System Model](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/). MIT CEEPR Working Paper Series. WP 2024-14. ~ Open access
 
 ## Peer-reviewed book chapters
 
-**Dimanchev, E.**, D. Qorbani, M. Korpas. 2022. [Electric vehicle adoption dynamics on the road to deep decarbonization](https://onlinelibrary.wiley.com/doi/10.1002/9783527831425.ch8). Book chapter in "The 4Ds of Energy Transition: Decarbonization, Decreasing use, Decentralization, and Digitalization". Wiley. ([Open access version](https://www.researchgate.net/publication/362025983_Electric_Vehicle_Adoption_Dynamics_on_the_Road_to_Deep_Decarbonization))
+**Dimanchev, E.**, D. Qorbani, M. Korpas. 2022. [Electric vehicle adoption dynamics on the road to deep decarbonization](https://onlinelibrary.wiley.com/doi/10.1002/9783527831425.ch8). Book chapter in "The 4Ds of Energy Transition: Decarbonization, Decreasing use, Decentralization, and Digitalization". Wiley. ~ [Open access version](https://www.researchgate.net/publication/362025983_Electric_Vehicle_Adoption_Dynamics_on_the_Road_to_Deep_Decarbonization)
 
 ## Reports
 
