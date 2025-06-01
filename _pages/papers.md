@@ -26,9 +26,9 @@ Martin, J., **E. Dimanchev**, A, Neumann. 2023. [Carbon abatement costs for rene
 
 ## Working papers
 
-**Dimanchev, E.**, S.A. Gabriel, S-E. Fleten, F. Pecci, M. Korpås. 2024. [Choosing Climate Policies in a Second-best World with Incomplete Markets: Insights from a Bilevel Power System Model](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/). MIT CEEPR Working Paper Series. WP 2024-14. ~ Open access
-
 Bhandarkar, R., Q. Luo, **E. Dimanchev**, J.D. Jenkins. 2025. [Are EVs Cleaner Than We Think? Evaluating Consequential Greenhouse Gas Emissions from EV Charging](https://arxiv.org/abs/2504.17632). 
+
+**Dimanchev, E.**, S.A. Gabriel, S-E. Fleten, F. Pecci, M. Korpås. 2024. [Choosing Climate Policies in a Second-best World with Incomplete Markets: Insights from a Bilevel Power System Model](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/). MIT CEEPR Working Paper Series. WP 2024-14. ~ Open access
 
 ## Peer-reviewed book chapters
 
