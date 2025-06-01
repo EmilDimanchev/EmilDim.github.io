@@ -28,6 +28,8 @@ Martin, J., **E. Dimanchev**, A, Neumann. 2023. [Carbon abatement costs for rene
 
 **Dimanchev, E.**, S.A. Gabriel, S-E. Fleten, F. Pecci, M. Korpås. 2024. [Choosing Climate Policies in a Second-best World with Incomplete Markets: Insights from a Bilevel Power System Model](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/). MIT CEEPR Working Paper Series. WP 2024-14. ~ Open access
 
+Bhandarkar, R., Q. Luo, **E. Dimanchev**, J.D. Jenkins. 2025. [Are EVs Cleaner Than We Think? Evaluating Consequential Greenhouse Gas Emissions from EV Charging](https://arxiv.org/abs/2504.17632). 
+
 ## Peer-reviewed book chapters
 
 **Dimanchev, E.**, D. Qorbani, M. Korpas. 2022. [Electric vehicle adoption dynamics on the road to deep decarbonization](https://onlinelibrary.wiley.com/doi/10.1002/9783527831425.ch8). Book chapter in "The 4Ds of Energy Transition: Decarbonization, Decreasing use, Decentralization, and Digitalization". Wiley. ~ [Open access version](https://www.researchgate.net/publication/362025983_Electric_Vehicle_Adoption_Dynamics_on_the_Road_to_Deep_Decarbonization)
