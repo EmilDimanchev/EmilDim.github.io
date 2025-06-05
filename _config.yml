@@ -98,7 +98,7 @@ defaults:
   # _posts
   - scope:
       path: "_posts"
-      type: about
+      type: posts
     values:
       layout: single
       author_profile: true
