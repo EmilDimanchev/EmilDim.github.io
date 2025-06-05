@@ -9,5 +9,7 @@ main:
     url: /phd/
   - title: "Hello"
     url: /
+    - title: "Blog"
+    url: /posts/
   # - title: "About"
     # url: /about/
