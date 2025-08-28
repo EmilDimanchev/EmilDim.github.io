@@ -4,7 +4,7 @@ classes: wide
 ---
 My PhD investigated risk allocation problems in electricity markets, their consequences for societal climate goals, and their implications for public policy. My [thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3165055) consisted of four papers focusing on the following questions:
 
-* How does [power system decarbonization](https://doi.org/10.1016/j.eneco.2024.107639) depend on investor risk aversion and the incompleteness of risk markets?
+* How does the incompleteness of long-term contracting in liberalized power markets affect the future technology mix and what implications does this have for power system emissions? [open access link](https://doi.org/10.1016/j.eneco.2024.107639)
 * How do [climate policy effects](https://doi.org/10.32866/001c.94993) change when risk markets are incomplete?
 * How does the [optimal choice of renewable subsidies](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/) and carbon prices change in power markets with incomplete risk trading?
 * How does risk impact the timing of [EV infrastructure investments](https://www.sciencedirect.com/science/article/pii/S0301421523002884) and how can government policies accelerate deployment?
