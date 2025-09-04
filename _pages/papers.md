@@ -8,6 +8,8 @@ classes: wide
 
 Nygaard, L., **E. Dimanchev**, M. Korpås. 2025. [Power System Planning in the North Sea Area Under Demand Uncertainty and Risk Aversion](https://www.sciencedirect.com/science/article/pii/S2211467X25000276). *Energy Strategy Reviews 59.* ~ Open access
 
+Bhandarkar, R., Q. Luo, **E. Dimanchev**, J.D. Jenkins. 2025. [Are EVs Cleaner Than We Think? Evaluating Consequential Greenhouse Gas Emissions from EV Charging]([https://arxiv.org/abs/2504.17632](https://iopscience.iop.org/article/10.1088/1748-9326/ae0052)). *Environmental Research Letters* accepted manuscript. ~ Open access 
+
 **Dimanchev, E.**, S. Gabriel, L. Reichenberg, and M. Korpås. 2024. [Consequences of the Missing Risk Market Problem for Power System Emissions](https://doi.org/10.1016/j.eneco.2024.107639). *Energy Economics* 136. ~ Open access; [Replication files](https://zenodo.org/records/10709502)
 
 **Dimanchev, E.**, S.-E. Fleten, S. Gabriel, and M. Korpås. 2024. [Effects of Electricity Sector Climate Policies in a Second-best World of Missing Risk Markets](https://doi.org/10.32866/001c.94993). *Findings*. ~ Open access
@@ -25,8 +27,6 @@ Martin, J., **E. Dimanchev**, A, Neumann. 2023. [Carbon abatement costs for rene
 **Dimanchev, E.**, S. Paltsev, M. Yuan, D. Rothenberg, C.W. Tessum, J.D. Marshall, N.E. Selin. 2019. [Health Co-Benefits of Sub-National Renewable Energy Policy in the U.S.](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9) *Environmental Research Letters* 14. ~ Open access; [testimony for the Ohio Senate](http://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/chamber/133rd_ga/ready_for_publication/committee_docs/cmte_s_energy_pu_1/testimony/cmte_s_energy_pu_1_2019-06-19-0800_742/testimonyemildimanchevmit.pdf)
 
 ## Working papers
-
-Bhandarkar, R., Q. Luo, **E. Dimanchev**, J.D. Jenkins. 2025. [Are EVs Cleaner Than We Think? Evaluating Consequential Greenhouse Gas Emissions from EV Charging](https://arxiv.org/abs/2504.17632). 
 
 **Dimanchev, E.**, S.A. Gabriel, S-E. Fleten, F. Pecci, M. Korpås. 2024. [Choosing Climate Policies in a Second-best World with Incomplete Markets: Insights from a Bilevel Power System Model](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/). MIT CEEPR Working Paper Series. WP 2024-14. ~ Open access
 
