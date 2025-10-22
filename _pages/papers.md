@@ -28,7 +28,7 @@ Martin, J., **Dimanchev, E.**, Neumann, A. (2023). [Carbon abatement costs for r
 
 ## Working papers
 
-**Dimanchev, E.**, Gabriel, S., Fleten, S-E., Pecci, F., Korpås, M. (2024). [Choosing Climate Policies in a Second-best World with Incomplete Markets: Insights from a Bilevel Power System Model](https://ceepr.mit.edu/workingpaper/choosing-climate-policies-in-a-second-best-world-with-incomplete-markets-insights-from-a-bilevel-power-system-model/). MIT CEEPR Working Paper Series. WP 2024-14. ~ Open access
+**Dimanchev, E.**, Gabriel, S., Fleten, S-E., Pecci, F., Korpås, M. (2024). [Choosing climate policies in a second-best world with incomplete risk markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636369). SSRN.
 
 ## Peer-reviewed book chapters
 
