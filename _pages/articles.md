@@ -6,7 +6,7 @@ A wake-up call theory of climate change - Medium (October 9, 2020). [Link](https
 
 Letter to the editor - "Societies have ample reason to act on climate change now" - The Economist (October 12, 2019) [Link]((https://www.economist.com/letters/2019/10/12/letters-to-the-editor))
 
-Pricing CO2 imports would be a win-win for the environment and the economy – The Rift (September 24, 2019) [Link]((https://therift.eu/index.php/2019/09/24/should-the-eu-tax-imported-products-accordingly-to-their-co2-footprint/)
+Pricing CO2 imports would be a win-win for the environment and the economy – The Rift (September 24, 2019) [Link](https://therift.eu/index.php/2019/09/24/should-the-eu-tax-imported-products-accordingly-to-their-co2-footprint/)
 
 Weakening the state’s renewable energy standards is bad for Ohioans’ health – Akron Beacon Journal (June 29, 2019) [Link](https://www.ohio.com/opinion/20190629/emil-dimanchev-weakening-states-renewable-energy-standards-is-bad-for-ohioans-health)
 
@@ -36,6 +36,6 @@ Commission Proposes a Market Stability Reserve for Europe’s Carbon Market – 
 
 Lawmakers Act to Raise European Carbon Price – Triple Pundit (December 30, 2013) [Link](http://www.triplepundit.com/2013/12/lawmakers-act-raise-european-carbon-price/)
 
-[How to Genuinely Offset Your Emissions](http://www.triplepundit.com/2014/09/genuinely-offset-emissions/) – Triple Pundit (September 5, 2014)
+How to Genuinely Offset Your Emissions] – Triple Pundit (September 5, 2014) [Link](http://www.triplepundit.com/2014/09/genuinely-offset-emissions/)
 
-[Europe’s Stranded Assets: Cautionary Tale for Global Investors](http://www.triplepundit.com/2013/08/europes-stranded-assets-cautionary-tale-global-investors/) – Triple Pundit (August 23, 2013)
+Europe’s Stranded Assets: Cautionary Tale for Global Investors – Triple Pundit (August 23, 2013) [Link](http://www.triplepundit.com/2013/08/europes-stranded-assets-cautionary-tale-global-investors/)
