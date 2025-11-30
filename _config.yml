@@ -67,7 +67,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://bsky.app/profile/emildimanchev.bsky.social"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/emil-dimanchev-a6607820/"
     # - label: "Contact"
       #icon: "fas fa-fw fa-link:
