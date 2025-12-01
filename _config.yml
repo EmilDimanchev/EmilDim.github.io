@@ -61,13 +61,13 @@ author:
   # bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-scholar"
+      icon: "fas fa-fw fa-google_scholar"
       url: "https://scholar.google.com/citations?user=3qMUlzkAAAAJ&hl=en"
     - label: "Blue Sky"
       icon: "fas fa-fw fa-link"
       url: "https://bsky.app/profile/emildimanchev.bsky.social"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-LinkedIn"
       url: "https://www.linkedin.com/in/emil-dimanchev-a6607820/"
     # - label: "Contact"
       #icon: "fas fa-fw fa-link:
