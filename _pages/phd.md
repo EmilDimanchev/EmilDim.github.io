@@ -2,7 +2,7 @@
 permalink: /phd/
 classes: wide
 ---
-My PhD research investigated the ability of electricity markets to incentivize socially-optimal investment decisions, and the implications of long-term contracting problems for low-carbon energy systems. My [thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3165055) consisted of four papers focusing on the following questions:
+My PhD research investigated the ability of electricity markets to incentivize socially-optimal investment decisions. I focused on how electricity markets allocate risk between investors and consumers and showed that current inadequacies in risk allocation distort investment decisions in favor of fossil fuels. My [thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3165055) consisted of four papers addressing the following questions:
 
 * How do investments in power system technologies depend on market risk and the incompleteness of long-term contracting in liberalized power markets, and what implications does this have for power system emissions? [Paper link](https://doi.org/10.1016/j.eneco.2024.107639).
 * How do climate policy effects change when risk markets are incomplete? [Paper link](https://doi.org/10.32866/001c.94993).
