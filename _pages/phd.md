@@ -2,7 +2,7 @@
 permalink: /phd/
 classes: wide
 ---
-My PhD research investigated how risk impacts the functioning and optimal design of low-carbon energy systems. I studied the ability of electricity markets to incentivize socially-optimal investment decisions, with a particular focus on how electricity markets allocate risk between investors and consumers, and how risk affects investments in different power system technologies. 
+My [PhD research](https://nva.sikt.no/registration/0198ebcba8c4-9471e9dd-d1d4-40e6-b383-80f09b98fcbb) investigated how risk impacts the functioning and optimal design of low-carbon energy systems. I studied the ability of electricity markets to incentivize socially-optimal investment decisions, with a particular focus on how electricity markets allocate risk between investors and consumers, and how risk affects investments in different power system technologies. 
 
 My first PhD [paper](https://doi.org/10.1016/j.eneco.2024.107639) showed that current inadequacies in risk allocation distort investments in favor of fossil fuels. This means that electricity markets should be re-designed to avoid misalignment with public decarbonization goals and to ensure the efficiency of low-carbon electricity systems. 
 
