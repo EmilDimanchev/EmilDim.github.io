@@ -1,12 +1,12 @@
 main:
+  - title: "Research"
+    url: /research/
   - title: "Papers"
     url: /papers/
   - title: "Articles"
     url: /articles/
   - title: "In the media"
     url: /media/
-  - title: "Research"
-    url: /research/
   - title: "Hello"
     url: /
   # - title: "Blog"
