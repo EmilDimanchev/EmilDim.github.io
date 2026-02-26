@@ -5,8 +5,8 @@ main:
     url: /articles/
   - title: "In the media"
     url: /media/
-  - title: "PhD"
-    url: /phd/
+  - title: "Research"
+    url: /research/
   - title: "Hello"
     url: /
   # - title: "Blog"
