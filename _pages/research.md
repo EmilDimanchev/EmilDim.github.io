@@ -17,9 +17,9 @@ My research focuses on the following three topics:
 ## Approaches
 
 The transition to net-zero carbon energy presents significant research and modeling challenges:
-* Future energy systems will not look like today's but be increasingly reliant on weather-dependent renewable resources and electrification. Understanding future systems requires fit-for-purpose electricity-centric optimization-based methods.
-* Policy makers have a limited set of levers at their disposal to meet multiple objectives but this is often ignored in traditional modeling efforts.
-* The second-best nature of national economies belies traditional models built on the assumption of efficient markets. Energy transitions are shaped by market failures, adoption-driven innovation, and network effects. 
+* Structural transformations: Future energy systems will not look like today's but be increasingly reliant on weather-dependent renewable resources and electrification. Understanding future systems requires fit-for-purpose electricity-centric optimization-based methods.
+* Bringing policy modeling from theory to reality: Policy makers have a limited set of levers at their disposal to meet multiple objectives but this is often ignored in traditional modeling efforts.
+* Decision making amid sub-optimalities: The second-best nature of national economies belies traditional models built on the assumption of efficient markets. Energy transitions are shaped by market failures, adoption-driven innovation, and network effects. 
 
 To address these challenges, I leverage new mathematical programming methods that draw on operations research, engineering, and economics, with a particular focus on capacity expansion and energy system optimization and equilibrium models. My work has shown how such methods can be enhanced to inform complex policy choices[^1], market inefficiencies[^2], and my ongoing work is extending current methods for capturing learning-by-doing and multi-sector network interactions[^3].
 
