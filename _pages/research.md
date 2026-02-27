@@ -1,6 +1,5 @@
 ---
 permalink: /research/
-title: Research
 classes: wide
 ---
 
@@ -16,7 +15,6 @@ My research focuses on the following three topics:
 
 ## Challenges
 
-The transition to net-zero carbon energy presents significant research and modeling challenges:
 * Structural transformations: Future energy systems will not look like today's but be increasingly reliant on weather-dependent renewable resources and electrification. Understanding future systems thus increasingly requires electricity-centric models based on optimization methods.
 * Bringing policy modeling from theory to reality: Policy makers have a limited set of levers at their disposal to meet multiple objectives, generally in the face of political constraints, which requires moving policy modeling beyond traditional approaches based on theoretical uniform carbon prices.
 * Decision making in a sub-optimal world: The second-best nature of national economies stands in contrast to traditional models built on the assumption of efficient markets. As energy transitions are shaped by market failures, adoption-driven innovation, and network effects, there is a growing need for fit-for-purpose analytical methods.
