@@ -7,12 +7,14 @@ I study macro-energy systems and how they can be transitioned toward net-zero ca
 
 ## Questions
 
+My research focuses on the following three topics:
 1. Where do we want to go: Assessing the performance of alternative net-zero energy system design options and generating future scenarios for actionable planning guidance.
 2. How do we get there: Evaluating climate and energy policies for steering socio-technical systems toward desired system states. 
 3. How do we know: Advancing state-of-the-art optimization-based methods for modeling energy systems with a particular focus on high-resolution policy modeling under political economy constraints and uncertainty.
 
 ## Challenges
 
+Addressing these problems requires research that overcomes the following challenges:
 * Structural transformations: Future energy systems will not look like today's but be increasingly reliant on weather-dependent renewable resources and electrification. Understanding future systems thus increasingly requires electricity-centric models based on optimization methods.
 * Bringing policy modeling from theory to reality: Policy makers have a limited set of levers at their disposal to meet multiple objectives, generally in the face of political constraints, which requires moving policy modeling beyond traditional approaches based on theoretical uniform carbon prices.
 * Decision making in a sub-optimal world: The second-best nature of national economies stands in contrast to traditional models built on the assumption of efficient markets. As energy transitions are shaped by market failures, adoption-driven innovation, and network effects, there is a growing need for fit-for-purpose analytical methods.
