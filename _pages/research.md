@@ -7,8 +7,6 @@ I study macro-energy systems and how they can be transitioned toward net-zero ca
 
 ## Questions
 
-My research focuses on the following three topics:
-
 1. Where do we want to go: Assessing the performance of alternative net-zero energy system design options and generating future scenarios for actionable planning guidance.
 2. How do we get there: Evaluating climate and energy policies for steering socio-technical systems toward desired system states. 
 3. How do we know: Advancing state-of-the-art optimization-based methods for modeling energy systems with a particular focus on high-resolution policy modeling under political economy constraints and uncertainty.
