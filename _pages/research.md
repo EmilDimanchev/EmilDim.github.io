@@ -3,7 +3,9 @@ permalink: /research/
 classes: wide
 ---
 
-I study macro-energy systems and how they can be transitioned toward net-zero carbon energy. My research focuses on the following three topics:
+I study macro-energy systems and how they can be transitioned toward net-zero carbon energy. 
+
+My research focuses on the following three topics:
 
 1. Where do we want to go: Assessing the performance of alternative net-zero energy system design optionsa and generating future scenarios for actionable planning guidance.
 2. How do we get there: Evaluating climate and energy policies for steering socio-technical systems toward net-zero. 
