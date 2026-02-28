@@ -21,7 +21,7 @@ Addressing these problems requires research that overcomes the following challen
 
 ## Solutions
 
-I leverage new mathematical programming methods that draw on operations research, engineering, and economics, with a particular focus on capacity expansion and energy system optimization and equilibrium models. My work has introduced enhanved versions of such methods to inform policy choices between multiple instruments considering objectives beyond efficiency[^1], and shown the importance of market inefficiencies for climate policy design[^2]. My ongoing work is extending current methods for capturing learning-by-doing and multi-sector network interactions[^3].
+I leverage new mathematical programming methods that draw on operations research, engineering, and economics, with a particular focus on capacity expansion and energy system optimization and equilibrium models. My work has introduced enhanced versions of such methods to inform policy choices between multiple instruments considering objectives beyond efficiency[^1], and shown the importance of market inefficiencies for climate policy design[^2]. My ongoing work is extending current methods for capturing learning-by-doing and multi-sector network interactions[^3].
 
 [^1]: Example works [here](https://doi.org/10.1016/j.eneco.2023.106697), [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636369), [here](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9) 
 [^2]: Example works [here](https://doi.org/10.1016/j.eneco.2024.107639), [here](https://doi.org/10.32866/001c.94993), [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636369),[here](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9)
