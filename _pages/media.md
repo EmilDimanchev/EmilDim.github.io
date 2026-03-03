@@ -80,6 +80,7 @@ Carbon Pulse: [“DIALOGUE: Will post-2020 ETS reforms change the game for EU in
 Carbon Pulse: [“EU Market: EU carbon nudges higher as Phase 4 proposal lifts sentiment”](https://href.li/?http://carbon-pulse.com/6490/) (July 15, 2015)
 
 Reuters: [“EU politicians back carbon market 2019 reform start”](https://href.li/?http://www.reuters.com/article/eu-carbon-idUSL8N0ZN3Q020150708) (July 8, 2015)
+>"It will take longer for the carbon price to fully reflect the long-term implications MSR agreement," he said, adding the financial sector had to regain confidence in the market.
 
 Carbon Pulse: [“Deeper EU energy saving goal would knock CO2 price -analysts”](https://href.li/?http://carbon-pulse.com/6079/) (July 8, 2015)
 
