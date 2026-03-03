@@ -6,14 +6,19 @@ classes: wide
 Danish Broadcasting Corporation [State Support for Offshore Wind? Here's Why the Bill Won’t Necessarily End Up with You](https://www.dr.dk/nyheder/viden/klima/statsstoette-til-havvind-derfor-ender-regningen-ikke-noedvendigvis-hos-dig) (January 31, 2025)
 
 RTO Insider [National Grid Backs out of Twin States Clean Energy Link Project](https://www.rtoinsider.com/73059-twin-states-national-grid-clean-energy-link/) (March 5, 2024)
+>Existing power market structures do not provide enough incentives for forward-looking transmission investments that would provide long-term benefits. 
 
 RTO Insider [Québec, New England See Shifting Role for Canadian Hydropower](https://www.rtoinsider.com/72093-quebec-new-england-shifting-role-hydropower/) (February 25, 2024)
+>What our study shows is that in the long term, we should think of [reservoir hydropower] as a battery, so the question is not so much, is there enough energy, but is there enough transmission capacity to use that battery?”
 
 Canadian Business [Hydro-Québec’s Billion-Dollar Power Struggle](https://www.canadianbusiness.com/ideas/hydro-quebec-billion-dollar-power-struggle/) (October 11, 2022)
+>the controversy around NECEC “bodes poorly for our ability to meet our climate goals in the U.S. or Canada. We need to get good at building things again, and this is showing that we, as a society, are not good at building things.”
 
 Axios [One barrier to electric cars: Slow fleet turnover](https://www.axios.com/2022/07/25/electric-cars-fleet-turnover) (July 25, 2022)
+>People generally tend to underestimate how difficult it is to change a stock variable, like all cars on the road. There is too much focus on the flow, or vehicle sales
 
 Euractiv [Trust in carbon market ‘undermined’ by EU’s Russia plans, analysts warn](https://www.euractiv.com/section/emissions-trading-scheme/news/trust-in-carbon-market-undermined-by-eus-russia-plans-analysts-warn/) (May 19, 2022)
+>If policymakers can change the amount of CO2 permits available in non-predictable ways, this shakes investors' confidence in the market and weakens incentives for low-CO2 investments.
 
 MIT Energy Futures Magazine [New England renewables + Canadian hydropower: A pathway to clean electricity in 2050
 ](https://energy.mit.edu/news/new-england-renewables-canadian-hydropower/) (Fall Issue, 2021)
@@ -23,6 +28,7 @@ Energi Talks Podcast [Hydro's main value is not electricity generation, but stor
 Solar Tribune: ["Combating Climate Change"](https://solartribune.com/climate-change/policy/economic-approaches/) (February 24, 2021)
 
 Bloomberg: ["The Key to New York’s Green Dreams May Be Turning Quebec Into a Mega-Battery"](https://www.bloomberg.com/news/articles/2020-02-24/mit-researchers-how-quebec-can-help-bring-green-power-to-new-yor) (February 24, 2020)
+>Quebec’s abundant hydropower is often seen as a competitor to renewables in the Northeast. But Dimanchev and his colleagues argue that using U.S. renewables and Canadian hydropower together as an integrated system could cut ... the cost of reaching a zero-emission power grid by 2050 for New England and New York State.
 
 PV Magazine ["How Canadian hydro could save New England and New York $5.4 billion"](https://pv-magazine-usa.com/2020/02/24/how-canadian-hydro-could-save-new-england-and-new-york-5-4-billion/) (February 24, 2020)
 
