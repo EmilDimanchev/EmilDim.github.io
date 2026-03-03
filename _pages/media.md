@@ -44,7 +44,7 @@ MIT News: [“Shift to renewable electricity a win-win at statewide level”](ht
 Axios: [“How renewable energy can boost Rust Belt health outcomes”](https://href.li/?https://www.axios.com/renewable-energy-rust-belt-health-care-coal-power-4f166795-a1ae-47db-87de-38190080bdbd.html) (August 13, 2019)
 
 Grist: [“Let’s hold off on praising China’s new carbon-pricing market”](https://href.li/?https://grist.org/article/lets-hold-off-on-praising-chinas-new-carbon-pricing-market/) (December 21, 2017)
->"But Emil Dimantchev, a climate policy researcher at the Massachusetts Institute of Technology, wrote earlier this year that it’s premature to call China’s new policy ambitious without the details of the trading scheme being in place."
+>"But Emil Dimanchev, a climate policy researcher at the Massachusetts Institute of Technology, wrote earlier this year that it’s premature to call China’s new policy ambitious without the details of the trading scheme being in place."
 
 MIT News: [“Helping Mexico design an effective climate policy”](https://href.li/?http://news.mit.edu/2017/helping-mexico-design-effective-climate-policy-1117) (November 17, 2017)
 >Our ability to forecast the future is very limited, which is why it’s important that policymakers not design policies based on a single projection of the future.
