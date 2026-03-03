@@ -28,7 +28,7 @@ Energi Talks Podcast [Hydro's main value is not electricity generation, but stor
 Solar Tribune: ["Combating Climate Change"](https://solartribune.com/climate-change/policy/economic-approaches/) (February 24, 2021)
 
 Bloomberg: ["The Key to New York’s Green Dreams May Be Turning Quebec Into a Mega-Battery"](https://www.bloomberg.com/news/articles/2020-02-24/mit-researchers-how-quebec-can-help-bring-green-power-to-new-yor) (February 24, 2020)
->Quebec’s abundant hydropower is often seen as a competitor to renewables in the Northeast. But Dimanchev and his colleagues argue that using U.S. renewables and Canadian hydropower together as an integrated system could cut ... the cost of reaching a zero-emission power grid by 2050 for New England and New York State.
+>"Quebec’s abundant hydropower is often seen as a competitor to renewables in the Northeast. But Dimanchev and his colleagues argue that using U.S. renewables and Canadian hydropower together as an integrated system could cut ... the cost of reaching a zero-emission power grid by 2050 for New England and New York State."
 
 PV Magazine ["How Canadian hydro could save New England and New York $5.4 billion"](https://pv-magazine-usa.com/2020/02/24/how-canadian-hydro-could-save-new-england-and-new-york-5-4-billion/) (February 24, 2020)
 
@@ -44,15 +44,15 @@ MIT News: [“Shift to renewable electricity a win-win at statewide level”](ht
 Axios: [“How renewable energy can boost Rust Belt health outcomes”](https://href.li/?https://www.axios.com/renewable-energy-rust-belt-health-care-coal-power-4f166795-a1ae-47db-87de-38190080bdbd.html) (August 13, 2019)
 
 Grist: [“Let’s hold off on praising China’s new carbon-pricing market”](https://href.li/?https://grist.org/article/lets-hold-off-on-praising-chinas-new-carbon-pricing-market/) (December 21, 2017)
->But Emil Dimantchev, a climate policy researcher at the Massachusetts Institute of Technology, wrote earlier this year that it’s premature to call China’s new policy ambitious without the details of the trading scheme being in place.
+>"But Emil Dimantchev, a climate policy researcher at the Massachusetts Institute of Technology, wrote earlier this year that it’s premature to call China’s new policy ambitious without the details of the trading scheme being in place."
 
 MIT News: [“Helping Mexico design an effective climate policy”](https://href.li/?http://news.mit.edu/2017/helping-mexico-design-effective-climate-policy-1117) (November 17, 2017)
->Our ability to forecast the future is very limited, which is why it’s important that policymakers not design policies based on a single projection of the future
+>Our ability to forecast the future is very limited, which is why it’s important that policymakers not design policies based on a single projection of the future.
 
 Climate Home: [“Brexit: Why a vote to leave the EU is bad news for the climate”](https://href.li/?http://www.climatechangenews.com/2016/06/20/brexit-why-a-vote-to-leave-the-eu-is-bad-news-for-the-climate/) (June 20, 2016)
 
 Climate Home: [“EU carbon price forecast inches up on reform plans”](https://href.li/?http://www.climatechangenews.com/2016/05/31/eu-carbon-price-forecast-inches-up-on-reform-plans/) (May 31, 2016)
->Emil Dimanchev at Thomson Reuters Point Carbon forecast Duncan’s plans would see carbon prices average €16 a tonne next decade, compared to €14/t under the Commission version.
+>"Emil Dimanchev at Thomson Reuters Point Carbon forecast Duncan’s plans would see carbon prices average €16 a tonne next decade, compared to €14/t under the Commission version."
 
 Climate Home: [“China holds key to revive moribund carbon markets”](https://href.li/?http://www.climatechangenews.com/2016/05/25/china-holds-key-to-revive-moribund-carbon-markets/) (May 25, 2016)
 
@@ -82,7 +82,7 @@ Carbon Pulse: [“DIALOGUE: Will post-2020 ETS reforms change the game for EU in
 Carbon Pulse: [“EU Market: EU carbon nudges higher as Phase 4 proposal lifts sentiment”](https://href.li/?http://carbon-pulse.com/6490/) (July 15, 2015)
 
 Reuters: [“EU politicians back carbon market 2019 reform start”](https://href.li/?http://www.reuters.com/article/eu-carbon-idUSL8N0ZN3Q020150708) (July 8, 2015)
->"It will take longer for the carbon price to fully reflect the long-term implications MSR agreement," he said, adding the financial sector had to regain confidence in the market.
+>"'It will take longer for the carbon price to fully reflect the long-term implications MSR agreement,' he said, adding the financial sector had to regain confidence in the market."
 
 Carbon Pulse: [“Deeper EU energy saving goal would knock CO2 price -analysts”](https://href.li/?http://carbon-pulse.com/6079/) (July 8, 2015)
 
