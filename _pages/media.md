@@ -9,10 +9,10 @@ RTO Insider [National Grid Backs out of Twin States Clean Energy Link Project](h
 >Existing power market structures do not provide enough incentives for forward-looking transmission investments that would provide long-term benefits. 
 
 RTO Insider [Québec, New England See Shifting Role for Canadian Hydropower](https://www.rtoinsider.com/72093-quebec-new-england-shifting-role-hydropower/) (February 25, 2024)
->What our study shows is that in the long term, we should think of [reservoir hydropower] as a battery, so the question is not so much, is there enough energy, but is there enough transmission capacity to use that battery?”
+>What our study shows is that in the long term, we should think of [reservoir hydropower] as a battery, so the question is not so much, is there enough energy, but is there enough transmission capacity to use that battery?
 
 Canadian Business [Hydro-Québec’s Billion-Dollar Power Struggle](https://www.canadianbusiness.com/ideas/hydro-quebec-billion-dollar-power-struggle/) (October 11, 2022)
->the controversy around NECEC “bodes poorly for our ability to meet our climate goals in the U.S. or Canada. We need to get good at building things again, and this is showing that we, as a society, are not good at building things.”
+>the controversy around NECEC bodes poorly for our ability to meet our climate goals in the U.S. or Canada. We need to get good at building things again, and this is showing that we, as a society, are not good at building things.
 
 Axios [One barrier to electric cars: Slow fleet turnover](https://www.axios.com/2022/07/25/electric-cars-fleet-turnover) (July 25, 2022)
 >People generally tend to underestimate how difficult it is to change a stock variable, like all cars on the road. There is too much focus on the flow, or vehicle sales
@@ -49,6 +49,7 @@ MIT News: [“Helping Mexico design an effective climate policy”](https://href
 Climate Home: [“Brexit: Why a vote to leave the EU is bad news for the climate”](https://href.li/?http://www.climatechangenews.com/2016/06/20/brexit-why-a-vote-to-leave-the-eu-is-bad-news-for-the-climate/) (June 20, 2016)
 
 Climate Home: [“EU carbon price forecast inches up on reform plans”](https://href.li/?http://www.climatechangenews.com/2016/05/31/eu-carbon-price-forecast-inches-up-on-reform-plans/) (May 31, 2016)
+>Emil Dimanchev at Thomson Reuters Point Carbon forecast Duncan’s plans would see carbon prices average €16 a tonne next decade, compared to €14/t under the Commission version.
 
 Climate Home: [“China holds key to revive moribund carbon markets”](https://href.li/?http://www.climatechangenews.com/2016/05/25/china-holds-key-to-revive-moribund-carbon-markets/) (May 25, 2016)
 
@@ -72,6 +73,7 @@ Climate Home: [“Low prices raise concerns for China carbon market”](https://
 Carbon Brief: [“Factcheck: The steel crisis and UK electricity prices”](https://href.li/?http://www.carbonbrief.org/factcheck-the-steel-crisis-and-uk-electricity-prices) (22 October, 2015)
 
 Euractiv: [“Polish opposition threat to quit ETS seen as political maneuver”](https://href.li/?http://www.euractiv.com/section/energy/news/polish-opposition-threat-to-quit-ets-seen-as-political-manoeuvre/) (15 September, 2015)
+>Leaving the EU ETS would be a miscalculated overreaction. The government would be forgoing significant revenues, which it is currently relying on to modernise its energy system
 
 Carbon Pulse: [“DIALOGUE: Will post-2020 ETS reforms change the game for EU industry?”](https://href.li/?http://carbon-pulse.com/6700/) (July 21, 2015)
 
