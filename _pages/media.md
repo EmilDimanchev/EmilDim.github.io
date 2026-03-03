@@ -49,6 +49,7 @@ Climate Home: [“China holds key to revive moribund carbon markets”](https://
 The Wall Street Journal: [“EU High Court Rules Against Businesses on Carbon Credits”](https://href.li/?http://www.wsj.com/articles/eu-high-court-rules-against-businesses-on-carbon-credits-1461866209) (April 28, 2016)
 
 BBC: [“Tata Steel windfall from carbon emissions permits”](https://href.li/?http://www.bbc.com/news/science-environment-35994279) (April 8, 2016)
+>Emil Dimanchev, carbon analyst from Thomson Reuters, estimates that Tata Steel is likely to have netted around £794m (€1bn) between 2008 and 2014 in windfall profits.
 
 The Guardian: [“Green policies are not responsible for the Tata steel crisis”](https://href.li/?http://www.theguardian.com/environment/2016/apr/05/green-policies-are-not-responsible-for-the-tata-steel-crisis?CMP=share_btn_tw) (April 5, 2016)
 
