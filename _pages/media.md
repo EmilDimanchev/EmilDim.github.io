@@ -37,14 +37,17 @@ E&E News ["Study refuels debate about power line CO2 emissions"](https://www.een
 MIT Energy Futures Magazine: [“Renewable energy and carbon pricing policies: State-level adoption saves money and lives”](https://href.li/?http://energy.mit.edu/news/renewable-energy-and-carbon-pricing-policies/) (November 22, 2019)
 
 The Verge: [“Renewable energy can generate billions of dollars in health benefits, study finds”](https://href.li/?https://www.theverge.com/2019/8/15/20807800/renewable-energy-health-benefits-research-mit-study-rust-belt) (August 15, 2019)
+>This research shows that renewables pay for themselves through health benefits alone
 
 MIT News: [“Shift to renewable electricity a win-win at statewide level”](https://href.li/?http://news.mit.edu/2019/shift-renewable-electricity-win-win-statewide-level-0814) (August 14, 2019)
 
 Axios: [“How renewable energy can boost Rust Belt health outcomes”](https://href.li/?https://www.axios.com/renewable-energy-rust-belt-health-care-coal-power-4f166795-a1ae-47db-87de-38190080bdbd.html) (August 13, 2019)
 
 Grist: [“Let’s hold off on praising China’s new carbon-pricing market”](https://href.li/?https://grist.org/article/lets-hold-off-on-praising-chinas-new-carbon-pricing-market/) (December 21, 2017)
+>But Emil Dimantchev, a climate policy researcher at the Massachusetts Institute of Technology, wrote earlier this year that it’s premature to call China’s new policy ambitious without the details of the trading scheme being in place.
 
 MIT News: [“Helping Mexico design an effective climate policy”](https://href.li/?http://news.mit.edu/2017/helping-mexico-design-effective-climate-policy-1117) (November 17, 2017)
+>Our ability to forecast the future is very limited, which is why it’s important that policymakers not design policies based on a single projection of the future
 
 Climate Home: [“Brexit: Why a vote to leave the EU is bad news for the climate”](https://href.li/?http://www.climatechangenews.com/2016/06/20/brexit-why-a-vote-to-leave-the-eu-is-bad-news-for-the-climate/) (June 20, 2016)
 
@@ -56,7 +59,6 @@ Climate Home: [“China holds key to revive moribund carbon markets”](https://
 The Wall Street Journal: [“EU High Court Rules Against Businesses on Carbon Credits”](https://href.li/?http://www.wsj.com/articles/eu-high-court-rules-against-businesses-on-carbon-credits-1461866209) (April 28, 2016)
 
 BBC: [“Tata Steel windfall from carbon emissions permits”](https://href.li/?http://www.bbc.com/news/science-environment-35994279) (April 8, 2016)
->Emil Dimanchev, carbon analyst from Thomson Reuters, estimates that Tata Steel is likely to have netted around £794m (€1bn) between 2008 and 2014 in windfall profits.
 
 The Guardian: [“Green policies are not responsible for the Tata steel crisis”](https://href.li/?http://www.theguardian.com/environment/2016/apr/05/green-policies-are-not-responsible-for-the-tata-steel-crisis?CMP=share_btn_tw) (April 5, 2016)
 
