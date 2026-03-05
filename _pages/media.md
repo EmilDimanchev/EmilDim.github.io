@@ -67,6 +67,7 @@ Desmog UK: [“Attempt By Climate Science Deniers to Blame UK Steel Crisis on Gr
 Carbon Pulse: [“EU falsely claiming it’s on a credible track to 2C Paris climate goal -Point Carbon”](https://href.li/?http://carbon-pulse.com/16965/) (March 14, 2016)
 
 The Telegraph: [“EU has ‘failed’ to save carbon market from long-term gloom, say analysts”](https://href.li/?http://www.telegraph.co.uk/business/2016/03/03/eu-has-failed-to-save-carbon-market-from-long-term-gloom-say-ana/) (March 12, 2016)
+>The lesson is that the EU, and other nations can design more effective mechanisms [...to] deliver a predictable and stable investment signal and have enough flexibility while maintaining the benefit of emissions trading systems.
 
 Carbon Pulse: [“Point Carbon analysts warn EUAs still vulnerable to shocks, cut forecasts again”](https://href.li/?http://carbon-pulse.com/16406/) (March 1, 2016)
 
