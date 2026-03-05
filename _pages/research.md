@@ -25,8 +25,6 @@ My work informs policy decisions by leveraging new mathematical programming meth
 * A range of near-optimal climate policy mixes can be used by lawmakers facing political constraints to meet climate goals. Incorporating renewable subsidies in climate policy can enhance political feasibility at a small loss of economic efficiency ([Dimanchev and Knittel, 2023](https://doi.org/10.1016/j.eneco.2023.106697)). 
 * Decarbonizing electricity production is hindered by electricity market inefficiencies stemming from incomplete of long-term contracting. This means there is a strong rationale for governments to implement long-term contracting mechanisms, such as contracts for differences ([Dimanchev et al. 2024](https://doi.org/10.1016/j.eneco.2024.107639)). 
 * Expanding transmission infrastructure between regions rich in variable renewable energy and reservoir hydropower is an important priority for decarbonizing energy systems ([Dimanchev et al. 2021](https://doi.org/10.1016/j.enpol.2021.112369)) 
-* My ongoing work is extending current methods for capturing learning-by-doing and multi-sector network interactions[^3].
 
 [^1]: Example works [here](https://doi.org/10.1016/j.eneco.2023.106697), [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636369), [here](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9) 
 [^2]: Example works [here](https://doi.org/10.1016/j.eneco.2024.107639), [here](https://doi.org/10.32866/001c.94993), [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636369),[here](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9)
-[^3]: See [Macro.jl](https://github.com/macroenergy/MacroEnergy.jl)
