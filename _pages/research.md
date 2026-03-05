@@ -22,7 +22,7 @@ Addressing these problems requires research that overcomes the following challen
 ## Solutions
 
 My work informs policy decisions by leveraging new mathematical programming methods that draw on operations research, engineering, and economics, with a particular focus on capacity expansion and energy system optimization and equilibrium models. For example, recent work by myself and colleagues has shown that:
-* A range of near-optimal climate policy mixes can be used by lawmakers facing political constraints to meet climate goals. Incorporating renewable subsidies in climate policy can enhance political feasibility at a small loss of economic efficiency ([Dimanchev and Knittel, 2023](https://doi.org/10.1016/j.eneco.2023.106697)). 
+* Near-optimal climate policy mixes can enable lawmakers to overcome political constraints and meet climate policy targets. Incorporating renewable subsidies in climate policy can enhance political feasibility at a small loss of economic efficiency ([Dimanchev and Knittel, 2023](https://doi.org/10.1016/j.eneco.2023.106697)). 
 * Decarbonizing electricity production is hindered by electricity market inefficiencies stemming from incomplete of long-term contracting. This means there is a strong rationale for governments to implement long-term contracting mechanisms, such as contracts for differences ([Dimanchev et al. 2024](https://doi.org/10.1016/j.eneco.2024.107639)). 
 * Expanding transmission infrastructure between regions rich in variable renewable energy and reservoir hydropower is an important priority for decarbonizing energy systems ([Dimanchev et al. 2021](https://doi.org/10.1016/j.enpol.2021.112369)) 
 
