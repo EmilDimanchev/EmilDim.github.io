@@ -15,7 +15,7 @@ My research focuses on the following three topics:
 ## Challenges
 
 Addressing these problems requires research that overcomes the following challenges:
-* Structural transformations: Future energy systems will not look like today's but be increasingly reliant on weather-dependent renewable resources and electrification. Understanding future systems thus increasingly requires electricity-centric models based on optimization methods.
+* Structural transformations: Future energy systems will not look like today's but be increasingly reliant on weather-dependent renewable resources and electrification. Understanding future systems thus increasingly requires electricity-centric models based on optimization methods that capture how power systems are operated.
 * Bringing policy modeling from theory to reality: Policy makers have a limited set of levers at their disposal to meet multiple objectives while facing political constraints. This requires climate policy modeling beyond traditional approaches based on theoretical uniform carbon prices.[^1]
 * Decision making in a sub-optimal world: The second-best nature of national economies stands in contrast to traditional models built on the assumption of efficient markets.[^2] As energy transitions are shaped by market failures, adoption-driven innovation, and network effects, there is a growing need for fit-for-purpose analytical methods.
 
