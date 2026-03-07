@@ -3,7 +3,8 @@ permalink: /media/
 classes: wide
 ---
 
-Danish Broadcasting Corporation [State Support for Offshore Wind? Here's Why the Bill Won’t Necessarily End Up with You](https://www.dr.dk/nyheder/viden/klima/statsstoette-til-havvind-derfor-ender-regningen-ikke-noedvendigvis-hos-dig) (January 31, 2025)
+Danish Broadcasting Corporation (DR) [State Support for Offshore Wind? Here's Why the Bill Won’t Necessarily End Up with You](https://www.dr.dk/nyheder/viden/klima/statsstoette-til-havvind-derfor-ender-regningen-ikke-noedvendigvis-hos-dig) (January 31, 2025)
+>[Renewable auctions] do not necessarily mean the government will end up subsidizing [wind] developers (translated from Danish).
 
 RTO Insider [National Grid Backs out of Twin States Clean Energy Link Project](https://www.rtoinsider.com/73059-twin-states-national-grid-clean-energy-link/) (March 5, 2024)
 >Existing power market structures do not provide enough incentives for forward-looking transmission investments that would provide long-term benefits. 
