@@ -28,7 +28,9 @@ Martin, J., **Dimanchev, E.**, Neumann, A. (2023). [Carbon abatement costs for r
 
 ## Working papers
 
-**Dimanchev, E.**, Gabriel, S., Fleten, S-E., Pecci, F., Korpås, M. (2024). [Choosing climate policies in a second-best world with incomplete risk markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636369). SSRN.
+**Dimanchev, E.**, Gabriel, S., Fleten, S-E., Pecci, F., Korpås, M. (2025). [Choosing climate policies in a second-best world with incomplete risk markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636369). SSRN.
+
+Mantegna G., **Dimanchev, E.**, Pecci F., Patankar N., Jenkins, J. (2026). [Uncertainty-Aware Grid Planning in the Real World: A Method Enabling Large-Scale, Two-Stage Adaptive Robust Optimization for Capacity Expansion Planning](https://doi.org/10.48550/arXiv.2603.00394). arXiv.
 
 ## Peer-reviewed book chapters
 
