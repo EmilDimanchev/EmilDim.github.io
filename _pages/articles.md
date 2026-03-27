@@ -2,7 +2,7 @@
 permalink: /articles/
 classes: wide
 header:
-  image: /assets/images/IMG_0360.jpg
+  image: /assets/images/LibrofCongress.jpeg
 ---
 A wake-up call theory of climate change - Medium (October 9, 2020). [Link](https://medium.com/@EmilDimanchev/a-wake-up-call-theory-of-climate-change-fc5d3077a22b) 
 
