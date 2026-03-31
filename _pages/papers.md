@@ -1,9 +1,10 @@
 ---
 permalink: /papers/
+title: Papers
 classes: wide
 ---
 
-## Peer-reviewed papers
+## Peer-reviewed
 
 Nygaard, L., **Dimanchev, E.**, Korpås, M. (2025). [Power System Planning in the North Sea Area Under Demand Uncertainty and Risk Aversion](https://www.sciencedirect.com/science/article/pii/S2211467X25000276). *Energy Strategy Reviews 59.* ~ Open access
 
