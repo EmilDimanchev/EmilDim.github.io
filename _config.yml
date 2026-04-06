@@ -64,7 +64,7 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=3qMUlzkAAAAJ&hl=en"
     - label: "Blue Sky"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/emildimanchev.bsky.social"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
