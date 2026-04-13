@@ -20,7 +20,7 @@ Leading by example? Impacts of a domestic French carbon price floor – Energy P
 
 To end windfall profits EU should limit free allocation of CO2 allowances to industry – Energy Post (May 10, 2016) [Link](https://doi.org/10.5281/zenodo.19559879)
 
-Less is More – Why all carbon markets are oversupplied – IETA Greenhouse Gas Markets 2015 Annual Report (November 19, 2015) [Link](https://ieta.wildapricot.org/resources/Resources/GHG_Report/2015/Articles/Less_is_More_EDimantchev_MFerdinand.pdf)
+Less is More – Why all carbon markets are oversupplied – IETA Greenhouse Gas Markets 2015 Annual Report (November 19, 2015) [Link](https://doi.org/10.5281/zenodo.19560440)
 
 Future of EU carbon market still at stake as governments remain at odds – Thomson Reuters (April 27, 2015) [Link](https://doi.org/10.5281/zenodo.19560028)
 
