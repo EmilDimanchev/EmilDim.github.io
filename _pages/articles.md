@@ -18,7 +18,7 @@ A practical solution to windfall profits in the EU carbon market – Energy Post
 
 Leading by example? Impacts of a domestic French carbon price floor – Energy Post (June 8, 2016) [Link](https://doi.org/10.5281/zenodo.19559739)
 
-To end windfall profits EU should limit free allocation of CO2 allowances to industry – Energy Post (May 10, 2016) [Link](http://www.energypost.eu/end-windfall-profits-eu-limit-free-allocation-co2-allowances-industry/)
+To end windfall profits EU should limit free allocation of CO2 allowances to industry – Energy Post (May 10, 2016) [Link](https://doi.org/10.5281/zenodo.19559879)
 
 Less is More – Why all carbon markets are oversupplied – IETA Greenhouse Gas Markets 2015 Annual Report (November 19, 2015) [Link](https://ieta.wildapricot.org/resources/Resources/GHG_Report/2015/Articles/Less_is_More_EDimantchev_MFerdinand.pdf)
 
