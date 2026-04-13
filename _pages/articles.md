@@ -14,7 +14,7 @@ Carbon clubs turn national self-interest into climate action – Climate Home (D
 
 Calling China’s carbon market ‘ambitious’ shows how low the bar has fallen – Climate Home (June 27, 2017) [Link](http://www.climatechangenews.com/2017/06/27/calling-chinas-carbon-market-ambitious-shows-low-bar-fallen/)
 
-A practical solution to windfall profits in the EU carbon market – Energy Post (June 23, 2016) [Link](http://www.energypost.eu/practical-solution-windfall-profits-eu-carbon-market/)
+A practical solution to windfall profits in the EU carbon market – Energy Post (June 23, 2016) [Link](https://doi.org/10.5281/zenodo.19559913)
 
 Leading by example? Impacts of a domestic French carbon price floor – Energy Post (June 8, 2016) [Link](https://doi.org/10.5281/zenodo.19559739)
 
@@ -28,7 +28,7 @@ To make European climate policy work, we need to put a carbon price on imports �
 
 Carbon market reform to boost EU member state revenues – Thomson Reuters (February 27, 2015) [Link](https://emildimantchev.files.wordpress.com/2017/05/carboninsight270215.pdf)
 
-Emission trading now a major new source of low-carbon finance in the EU – Energy Post (December 18, 2014) [Link](http://www.energypost.eu/emission-trading-now-major-new-source-low-carbon-finance-eu-will-stay-way/)
+Emission trading now a major new source of low-carbon finance in the EU – Energy Post (December 18, 2014) [Link](https://doi.org/10.5281/zenodo.19559970)
 
 Taking Stock of the EU’s Proposed 2030 Climate Target – the Energy Collective (January 29, 2014) [Link](http://theenergycollective.com/edimantchev/333121/taking-stock-eu-s-proposed-2030-climate-target)
 
