@@ -22,7 +22,7 @@ To end windfall profits EU should limit free allocation of CO2 allowances to ind
 
 Less is More – Why all carbon markets are oversupplied – IETA Greenhouse Gas Markets 2015 Annual Report (November 19, 2015) [Link](https://ieta.wildapricot.org/resources/Resources/GHG_Report/2015/Articles/Less_is_More_EDimantchev_MFerdinand.pdf)
 
-Future of EU carbon market still at stake as governments remain at odds – Thomson Reuters (April 27, 2015) [Link](https://emildimantchev.files.wordpress.com/2017/05/press-release-msr-trialogue-quantified-point-carbon-2015-msr-insight-27-april-2015.pdf)
+Future of EU carbon market still at stake as governments remain at odds – Thomson Reuters (April 27, 2015) [Link](https://doi.org/10.5281/zenodo.19560028)
 
 To make European climate policy work, we need to put a carbon price on imports – Energy Post (March 5, 2015) [Link](https://doi.org/10.5281/zenodo.19559661)
 
