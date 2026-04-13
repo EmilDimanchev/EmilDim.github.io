@@ -16,7 +16,7 @@ Calling China’s carbon market ‘ambitious’ shows how low the bar has fallen
 
 A practical solution to windfall profits in the EU carbon market – Energy Post (June 23, 2016) [Link](http://www.energypost.eu/practical-solution-windfall-profits-eu-carbon-market/)
 
-Leading by example? Impacts of a domestic French carbon price floor – Energy Post (June 8, 2016) [Link](http://www.energypost.eu/leading-example-impacts-domestic-french-carbon-price-floor/)
+Leading by example? Impacts of a domestic French carbon price floor – Energy Post (June 8, 2016) [Link](https://doi.org/10.5281/zenodo.19559739)
 
 To end windfall profits EU should limit free allocation of CO2 allowances to industry – Energy Post (May 10, 2016) [Link](http://www.energypost.eu/end-windfall-profits-eu-limit-free-allocation-co2-allowances-industry/)
 
