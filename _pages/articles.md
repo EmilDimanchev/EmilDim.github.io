@@ -30,7 +30,7 @@ Carbon market reform to boost EU member state revenues – Thomson Reuters (Febr
 
 Emission trading now a major new source of low-carbon finance in the EU – Energy Post (December 18, 2014) [Link](https://doi.org/10.5281/zenodo.19559970)
 
-Taking Stock of the EU’s Proposed 2030 Climate Target – the Energy Collective (January 29, 2014) [Link](http://theenergycollective.com/edimantchev/333121/taking-stock-eu-s-proposed-2030-climate-target)
+Taking Stock of the EU’s Proposed 2030 Climate Target – the Energy Collective (January 29, 2014) [Link](https://web.archive.org/web/20140705184157/http://theenergycollective.com/edimantchev/333121/taking-stock-eu-s-proposed-2030-climate-target)
 
 Commission Proposes a Market Stability Reserve for Europe’s Carbon Market – the Energy Collective (January 23, 2014) [Link](http://theenergycollective.com/edimantchev/330621/commission-proposes-market-stability-reserve-europe-s-carbon-market)
 
