@@ -26,7 +26,7 @@ Future of EU carbon market still at stake as governments remain at odds – Thom
 
 To make European climate policy work, we need to put a carbon price on imports – Energy Post (March 5, 2015) [Link](https://doi.org/10.5281/zenodo.19559661)
 
-Carbon market reform to boost EU member state revenues – Thomson Reuters (February 27, 2015) [Link](https://emildimantchev.files.wordpress.com/2017/05/carboninsight270215.pdf)
+Carbon market reform to boost EU member state revenues – Thomson Reuters (February 27, 2015) [Link](https://doi.org/10.5281/zenodo.19560085)
 
 Emission trading now a major new source of low-carbon finance in the EU – Energy Post (December 18, 2014) [Link](https://doi.org/10.5281/zenodo.19559970)
 
