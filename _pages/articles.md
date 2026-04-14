@@ -36,6 +36,6 @@ Commission Proposes a Market Stability Reserve for Europe’s Carbon Market – 
 
 Lawmakers Act to Raise European Carbon Price – Triple Pundit (December 30, 2013) [Link](http://www.triplepundit.com/2013/12/lawmakers-act-raise-european-carbon-price/)
 
-How to Genuinely Offset Your Emissions] – Triple Pundit (September 5, 2014) [Link](http://www.triplepundit.com/2014/09/genuinely-offset-emissions/)
+How to Genuinely Offset Your Emissions – Triple Pundit (September 5, 2014) [Link](http://www.triplepundit.com/2014/09/genuinely-offset-emissions/)
 
 Europe’s Stranded Assets: Cautionary Tale for Global Investors – Triple Pundit (August 23, 2013) [Link](http://www.triplepundit.com/2013/08/europes-stranded-assets-cautionary-tale-global-investors/)
