@@ -6,9 +6,9 @@ A wake-up call theory of climate change - Medium (October 9, 2020). [Link](https
 
 Letter to the editor - "Societies have ample reason to act on climate change now" - The Economist (October 12, 2019) [Link](https://www.economist.com/letters/2019/10/12/letters-to-the-editor)
 
-Pricing CO2 imports would be a win-win for the environment and the economy – The Rift (September 24, 2019) [Link](https://therift.eu/index.php/2019/09/24/should-the-eu-tax-imported-products-accordingly-to-their-co2-footprint/)
+Pricing CO2 imports would be a win-win for the environment and the economy – The Rift (September 24, 2019) [Link](https://www.dropbox.com/scl/fi/t236h6w6ifiysg03ue384/Dimanchev-Should-the-EU-tax-imported-products-accordingly-to-their-CO2-footprint-The-Rift.pdf?rlkey=dh24sjbez6dfz0uysi3qr9aju&dl=0)
 
-Weakening the state’s renewable energy standards is bad for Ohioans’ health – Akron Beacon Journal (June 29, 2019) [Link](https://www.ohio.com/opinion/20190629/emil-dimanchev-weakening-states-renewable-energy-standards-is-bad-for-ohioans-health)
+Weakening the state’s renewable energy standards is bad for Ohioans’ health – Akron Beacon Journal (June 29, 2019) [Link](https://www.dropbox.com/scl/fi/uzjjtgl4v8gq4zzc7law6/Dimanchev-2019-Weakening-the-state-s-renewable-energy-standards-is-bad-for-Ohioans-health-Opinion-Akron-Beacon-Journal-Akron-OH.pdf?rlkey=isgu9qcjr365q13hm5rtmpwe6&dl=0)
 
 Carbon clubs turn national self-interest into climate action – Climate Home (December 19, 2018) [Link](http://www.climatechangenews.com/2018/12/19/carbon-clubs-turn-self-interest-climate-action/)
 
