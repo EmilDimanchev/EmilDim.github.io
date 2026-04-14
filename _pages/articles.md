@@ -4,7 +4,7 @@ classes: wide
 ---
 A wake-up call theory of climate change - Medium (October 9, 2020). [Link](https://medium.com/@EmilDimanchev/a-wake-up-call-theory-of-climate-change-fc5d3077a22b) 
 
-Letter to the editor - "Societies have ample reason to act on climate change now" - The Economist (October 12, 2019) [Link]((https://www.economist.com/letters/2019/10/12/letters-to-the-editor))
+Letter to the editor - "Societies have ample reason to act on climate change now" - The Economist (October 12, 2019) [Link](https://www.economist.com/letters/2019/10/12/letters-to-the-editor)
 
 Pricing CO2 imports would be a win-win for the environment and the economy – The Rift (September 24, 2019) [Link](https://therift.eu/index.php/2019/09/24/should-the-eu-tax-imported-products-accordingly-to-their-co2-footprint/)
 
