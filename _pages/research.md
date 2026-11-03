@@ -11,7 +11,7 @@ I study macro-energy systems and how they can be transitioned toward net-zero ca
 My research focuses on three topics:
 1. Where do we want to go: Assessing the performance of alternative net-zero energy system design options and generating future scenarios for actionable planning guidance, particularly under uncertainty. Example works: [here](https://doi.org/10.1016/j.enpol.2021.112369), [here](https://doi.org/10.1016/j.esr.2025.101664), [here](https://iopscience.iop.org/article/10.1088/2634-4505/ad763e).
 2. How do we get there: Evaluating climate and energy policies for steering socio-technical systems toward desired system states. Example works: [here](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9), [here](https://www.sciencedirect.com/science/article/pii/S0140988323001950), [here](https://doi.org/10.1016/j.eneco.2024.107639), [here](https://iopscience.iop.org/article/10.1088/1748-9326/ae0052), [here](https://www.sciencedirect.com/science/article/pii/S0301421523002884).
-3. How do we know: Advancing state-of-the-art optimization-based methods for modeling energy systems with a particular focus on high-resolution policy modeling under political economy constraints. Example works: [here](https://doi.org/10.1016/j.eneco.2024.107639), [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636369), [here](https://doi.org/10.1016/j.eneco.2023.106697).
+3. How do we know: Advancing state-of-the-art optimization-based methods for modeling energy systems with a particular focus on high-resolution policy modeling under political economy constraints. Example works: [here](https://doi.org/10.1016/j.eneco.2024.107639), [here](https://arxiv.org/abs/2610.41103), [here](https://doi.org/10.1016/j.eneco.2023.106697).
 
 ## Challenges
 
@@ -27,5 +27,5 @@ My work informs policy decisions by leveraging new mathematical modeling methods
 * Decarbonizing electricity production is hindered by electricity market inefficiencies stemming from incomplete of long-term contracting. This means there is a strong rationale for governments to implement long-term contracting mechanisms, such as contracts for differences ([Dimanchev et al. 2024](https://doi.org/10.1016/j.eneco.2024.107639)). 
 * Expanding transmission infrastructure between regions rich in variable renewable energy and reservoir hydropower is an important priority for decarbonizing energy systems ([Dimanchev et al. 2021](https://doi.org/10.1016/j.enpol.2021.112369)) 
 
-[^1]: Example works [here](https://doi.org/10.1016/j.eneco.2023.106697), [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636369), [here](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9) 
-[^2]: Example works [here](https://doi.org/10.1016/j.eneco.2024.107639), [here](https://doi.org/10.32866/001c.94993), [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5636369),[here](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9)
+[^1]: Example works [here](https://doi.org/10.1016/j.eneco.2023.106697), [here](https://arxiv.org/abs/2610.41103), [here](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9) 
+[^2]: Example works [here](https://doi.org/10.1016/j.eneco.2024.107639), [here](https://doi.org/10.32866/001c.94993), [here](https://arxiv.org/abs/2610.41103),[here](https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9)
